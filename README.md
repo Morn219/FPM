@@ -1,2 +1,2 @@
 # FPM
-FPM is abbreviation for function -ManagementctionProxy-,it works for network
+FPM is abbreviation for function-Proxy-Management,It works for network.
